@@ -4,8 +4,8 @@ This repo contains full demos for the `@intersection-observer` packages.
 
 ## 🔬 Examples
 
-- [React App on CodeSandbox](https://codesandbox.io/p/github/AhmedAljohi/intersection-observer-examples/tree/main)
-- [Vue App on CodeSandbox](https://codesandbox.io/p/github/AhmedAljohi/intersection-observer-examples/tree/main)
+- [React App on CodeSandbox](https://codesandbox.io/p/github/AhmedAljohi/intersection-observer-examples/main)
+- [Vue App on CodeSandbox](https://codesandbox.io/p/github/AhmedAljohi/intersection-observer-examples/main)
 
 Each app demonstrates:
 
